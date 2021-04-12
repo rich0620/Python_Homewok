@@ -1,0 +1,2 @@
+URI = 'hello'
+HOST 'localhost'
